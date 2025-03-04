@@ -2,9 +2,9 @@
 
 ## How to use 
 ### Webapp
-You can use Electrumswap on electrumswap.com to create exchanges for an easy to use and instant front end. 
+You can use Electrumswap on [electrumswap.com](https://electrumswap.com) to create exchanges for an easy to use and instant front end. 
 ### By API
-A exchange & the whole process can be made by simple API requests. See our API docshttps://electrumswap.com/api/
-
+exchange & the whole process can be made by simple API requests. See our [API docs](https://electrumswap.com/api)
+Global endpoint is api.electrumswap.com
 ### Programitcally
 Using ElectrumwapSDK, you can create your own version of the API to use liquidity from our pools or shared pools. 
